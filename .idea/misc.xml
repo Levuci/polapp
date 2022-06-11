@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/drawable/bg.xml" value="0.101" />
         <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/drawable/bg3.xml" value="0.101" />
+        <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/drawable/bg4.xml" value="0.101" />
+        <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/drawable/bg5.xml" value="0.101" />
         <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/layout/hasil_voting.xml" value="0.22" />
+        <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/layout/profile_calon.xml" value="0.22" />
         <entry key="..\:/Users/vule/AndroidStudioProjects/polapp/app/src/main/res/layout/user.xml" value="0.2" />
       </map>
     </option>

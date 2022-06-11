@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/bghasilvot">
+
+    <TextView
+        android:layout_width="140dp"
+        android:textSize="10dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:text="Sedang Berlangsung !"
+        android:layout_marginLeft="29dp"
+        android:textColor="#C6002F">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg3">
+
+        <TextView
+            android:layout_width="294dp"
+            android:layout_height="21dp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="14dp"
+            android:text="Hasil Pemilihan Gubernur">
+
+        </TextView>
+
+        <ImageButton
+            android:layout_width="110dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/ibtersedia"
+            android:background="@drawable/btntersedia"
+            android:layout_marginLeft="200dp">
+
+        </ImageButton>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="103dp"
+        android:layout_height="15dp"
+        android:layout_marginTop="5dp"
+        android:textSize="10dp"
+        android:text="segera !"
+        android:layout_marginLeft="29dp"
+        android:textColor="#C6002F">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg3">
+
+        <TextView
+            android:layout_width="294dp"
+            android:layout_height="21dp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="14dp"
+            android:text="Hasil Pemilihan Walikota">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/tidaktersedia"
+            android:layout_marginLeft="200dp">
+        </TextView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="28dp"
+        android:layout_marginRight="28dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="19dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg3">
+
+        <TextView
+            android:layout_width="294dp"
+            android:layout_height="21dp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="14dp"
+            android:text="Hasil Pemilihan Bupati">
+
+        </TextView>
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/tidaktersedia"
+            android:layout_marginLeft="200dp">
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:padding="10dp"
+        android:orientation="horizontal"
+        android:background="@drawable/bg4"
+        android:layout_marginTop="231dp">
+
+        <ImageButton
+            android:layout_marginLeft="50dp"
+            android:layout_width="33dp"
+            android:id="@+id/ibhome"
+            android:background="@drawable/logohome"
+            android:layout_height="33dp">
+
+        </ImageButton>
+
+        <ImageButton
+            android:layout_marginLeft="50dp"
+            android:layout_width="33dp"
+            android:id="@+id/ibsuara"
+            android:background="@drawable/logo2"
+            android:layout_height="33dp">
+
+        </ImageButton>
+
+        <ImageButton
+            android:layout_marginLeft="50dp"
+            android:layout_width="33dp"
+            android:id="@+id/ibnews"
+            android:background="@drawable/logo3"
+            android:layout_height="33dp">
+
+        </ImageButton>
+
+        <ImageButton
+            android:layout_marginLeft="50dp"
+            android:layout_width="33dp"
+            android:id="@+id/ibakun"
+            android:background="@drawable/logo4"
+            android:layout_height="33dp">
+
+        </ImageButton>
+    </LinearLayout>
+</LinearLayout>
